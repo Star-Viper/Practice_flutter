@@ -10,10 +10,10 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('My Flutter App'),
+          title: Text('My Calculator'),
         ),
         body: Center(
-          child: Text('Hello, Flutter!'),
+          child: Text('Hello, Vipul!'),
         ),
       ),
     );
